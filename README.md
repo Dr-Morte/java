@@ -1,2 +1,1 @@
-# java
-# java
+# This repository is for java code implementations of Data Structures.
